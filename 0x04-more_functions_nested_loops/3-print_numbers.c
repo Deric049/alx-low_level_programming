@@ -4,6 +4,7 @@
  *
  * Return: void
  */
+
 void print_numbers(void)
 {
 	int i, x;
